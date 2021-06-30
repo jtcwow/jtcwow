@@ -1,0 +1,25 @@
+2021-06-23T08:47:40+00:00 DEBUG WCFMAF Vendor Order Commission Generate:: Order => 1080 Vendor => 58 Affiliate => 51 Rule => {"vendor":{"mode":"fixed","percent":"","fixed":"0"},"vendor_order":{"mode":"percent","percent":"10","fixed":"","cal_mode":"on_commission"},"order":{"mode":"","percent":"10","fixed":"","cal_mode":"on_commission"}}
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 57 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 11 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 57 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 11 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 58 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 58 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 3 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 11 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 57 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 58 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 3 Affiliate => 51
+2021-06-23T09:59:04+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 3 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 57 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 57 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 3 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 11 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 57 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 58 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 58 Affiliate => 51
+2021-06-23T10:02:20+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 58 Affiliate => 51
+2021-06-23T10:02:21+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 11 Affiliate => 51
+2021-06-23T10:02:21+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 11 Affiliate => 51
+2021-06-23T10:02:21+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 3 Affiliate => 51
+2021-06-23T10:02:21+00:00 DEBUG WCFMAF Save in User Meta:: Vendor => 3 Affiliate => 51

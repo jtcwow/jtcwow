@@ -1,0 +1,153 @@
+2021-06-10T02:42:43+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+
+2021-06-10T02:51:42+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:51:43+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 3 Packages.
+
+
+2021-06-10T02:51:43+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:51:43+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:51:43+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:51:43+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:51:43+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:52:35+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:52:36+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 3 Packages.
+
+
+2021-06-10T02:52:36+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:52:36+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:52:36+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:52:36+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:52:36+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:25+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:35+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:53:35+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:35+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:35+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:35+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:35+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:39+00:00 DEBUG UPS SurePost Rate Request Aborted. SurePost allows only single-piece shipments. Request contains 2 Packages.
+
+
+2021-06-10T02:53:39+00:00 DEBUG UPS Saver is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:39+00:00 DEBUG UPS Worldwide Express Plus™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:39+00:00 DEBUG UPS Worldwide Express™ is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:39+00:00 DEBUG UPS Worldwide Expedited is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T02:53:39+00:00 DEBUG UPS Worldwide Express Freight is removed from Shipping Rates. Total 1 Package Set(s) were requested for Rates. Rates returned only for 2 Package Set(s). One Package Set contains maximum of 50 Packages.
+
+
+2021-06-10T11:24:19+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+
+2021-06-10T11:24:19+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+
+2021-06-10T11:24:19+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+
+2021-06-10T11:24:19+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+
+2021-06-10T11:53:30+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+
+2021-06-10T11:53:30+00:00 DEBUG Product # 250 is missing weight. Aborting Rate Calculation.
+
+

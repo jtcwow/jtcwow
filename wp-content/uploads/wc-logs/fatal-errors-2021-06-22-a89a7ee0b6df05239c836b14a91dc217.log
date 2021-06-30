@@ -1,0 +1,204 @@
+2021-06-22T08:18:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1570): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T08:19:35+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1570): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T08:19:58+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1570): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T08:20:13+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1570): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T09:08:23+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/jtcwow/public/class-jtcwow-public.php:116
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(294): Jtcwow_Public->set_order_affiliate()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(484): WP_Hook->do_action()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php(403): do_action()
+#4 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php(752): WCFMmp_Commission->wcfmmp_checkout_order_processed()
+#5 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_new_order_check()
+#6 /home/r in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/jtcwow/public/class-jtcwow-public.php on line 116
+
+2021-06-22T10:14:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T10:14:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T10:21:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T10:22:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T10:22:43+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T10:56:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T10:58:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T11:20:15+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T11:42:47+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T11:53:44+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:02:04+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:11:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:13:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:16:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:18:01+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:19:53+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:20:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:20:41+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T12:21:18+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WCFMmp_Commission::wcfmmp_commission_deducted_tax_admin_mode_handler(), 6 passed in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php on line 292 and exactly 7 expected in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php:934
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_commission_deducted_tax_admin_mode_handler()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(212): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-frontend-manager-affiliate/core/class-wcfmaf-frontend.php(1388): apply_filters()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMaf_Frontend->wcfmaf_affiliate_vendor_order_commission()
+#4 /home/runcloud/webapps/JTC-WOW in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php on line 934
+
+2021-06-22T13:05:12+00:00 CRITICAL Uncaught Error: Call to a member function get() on null in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/jtcwow/public/class-jtcwow-public.php:116
+Stack trace:
+#0 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(294): Jtcwow_Public->set_order_affiliate()
+#1 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters()
+#2 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/plugin.php(484): WP_Hook->do_action()
+#3 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php(403): do_action()
+#4 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/wc-multivendor-marketplace/core/class-wcfmmp-commission.php(752): WCFMmp_Commission->wcfmmp_checkout_order_processed()
+#5 /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-includes/class-wp-hook.php(292): WCFMmp_Commission->wcfmmp_new_order_check()
+#6 /home/r in /home/runcloud/webapps/JTC-WOW-Web-5tehLY87-staging/wp-content/plugins/jtcwow/public/class-jtcwow-public.php on line 116
+

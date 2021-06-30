@@ -1,0 +1,15 @@
+.woocommerce-save-button, .button-primary {
+	background: #1e3368 !important;
+	border-color: #1e3368 !important;
+	color: white !important;
+}
+
+.woocommerce-save-button:hover, .button-primary:hover {
+	background: #15254f !important;
+	border-color: #15254f !important;
+	color: white !important;
+}
+
+.button-primary:focus {
+	box-shadow: 0 0 0 1px #fff, 0 0 0 3px #1e3368 !important;
+}

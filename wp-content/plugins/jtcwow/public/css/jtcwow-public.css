@@ -1,0 +1,47 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--referral a:before{
+    font-family: "FontAwesome","Font Awesome 5 Free";
+    content: "\e05b" !important;
+}
+
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--my-affliates a:before{
+    font-family: "FontAwesome","Font Awesome 5 Free";
+    content: "\e001" !important;
+}
+
+.woocommerce-MyAccount-navigation ul li.woocommerce-MyAccount-navigation-link--followings a:before{
+    font-family: "FontAwesome","Font Awesome 5 Free";
+    content: "\e003" !important;
+}
+
+.wcfm_policies_heading {
+    margin-top: 2em !important;
+}
+
+.wcfm_mark_as_recived {
+    background: #555 !important;
+    padding: 3px !important;
+    -moz-border-radius: 3px !important;
+    -webkit-border-radius: 3px !important;
+    border-radius: 3px !important;
+    color: #fff !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    margin-bottom: 8px !important;
+    margin-left: 10px !important;
+    -webkit-box-shadow: 0 1px 0 #ccc !important;
+    box-shadow: 0 1px 0 #ccc !important;
+}
+
+.woocommerce .cart-popup .dropdown-menu ul, .cart-popup .dropdown-menu ul {
+    max-height: 300px !important;
+}
+
+a.wcfm_chat_now_button {
+    margin: 0px !important;
+    line-height: 30px !important;
+}
